@@ -36,11 +36,9 @@ wheels/
 .DS_Store
 Thumbs.db
 
-# Project specific
-experiments/*.png
-experiments/*.csv
+# Logs
 *.log
-!experiments/*.png
-!experiments/*.csv
+logs/
+
 # Streamlit
 .streamlit/
